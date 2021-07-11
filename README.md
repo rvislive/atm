@@ -52,7 +52,7 @@ Press 1 to proceed or 2 to exit
 ### To check Balance
 
 ```
-You bank balance is: ₹910.00
+You net bank balance is: ₹910.00
 
 Do you want another transection?
 Press 1 to proceed and 2 to exit
