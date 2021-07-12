@@ -63,5 +63,5 @@ Press 1 to proceed and 2 to exit
 ### To Exit
 ```
 Thanks for using our service!!! 
-Have a nice day {name}.
+Have a nice day !!
 ```
